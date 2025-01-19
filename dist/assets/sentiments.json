@@ -1,0 +1,956 @@
+[
+    {
+        "text": "If you are like most people, there is a gap between the person you are and the person you wish to be.",
+        "start": 1200,
+        "end": 7220,
+        "confidence": 0.6089314,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "There are little things you think you should do and big things you ought to achieve from working out regularly, eating healthily, learning a language, working on your novel, reading more, or simply actually doing your hobby instead of browsing Reddit.",
+        "start": 8000,
+        "end": 24616,
+        "confidence": 0.653719,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "But it sometimes feels that to achieve your goals, you have to become a different person.",
+        "start": 24808,
+        "end": 29588,
+        "confidence": 0.700566,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Someone who is consistent, puts in more effort, has discipline and willpower.",
+        "start": 29744,
+        "end": 34800,
+        "confidence": 0.6508628,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Maybe you've tried your hardest to be like that and it worked for a while, until you find yourself slipping back into your old ways.",
+        "start": 35220,
+        "end": 44000,
+        "confidence": 0.47344488,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "In the end, you always seem to fail.",
+        "start": 44420,
+        "end": 46860,
+        "confidence": 0.91026837,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "And with every failed attempt, you become more and more frustrated and annoyed with yourself.",
+        "start": 46980,
+        "end": 52160,
+        "confidence": 0.9646581,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "If you believe success and hustle Internet, it's all your own fault if you don't succeed.",
+        "start": 53060,
+        "end": 58956,
+        "confidence": 0.65131736,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "You just didn't want it enough and the failure is all you.",
+        "start": 59068,
+        "end": 62500,
+        "confidence": 0.93845445,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "But change is actually hard.",
+        "start": 62800,
+        "end": 64856,
+        "confidence": 0.62608194,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "And as with most things in life, understanding why makes things easier.",
+        "start": 65008,
+        "end": 69820,
+        "confidence": 0.77323014,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "The Jungle Imagine your brain as a lush and dense jungle.",
+        "start": 78240,
+        "end": 84136,
+        "confidence": 0.62107474,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Moving through it say to make a decision to do something is like moving through an actual jungle.",
+        "start": 84328,
+        "end": 89800,
+        "confidence": 0.5950665,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "It's hard and it costs energy.",
+        "start": 89960,
+        "end": 92260,
+        "confidence": 0.81726575,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "Your brain hates expending energy, so it came up with a trick.",
+        "start": 92700,
+        "end": 96628,
+        "confidence": 0.7934359,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "All your actions and behaviors leave paths in the jungle of your brain.",
+        "start": 96804,
+        "end": 101560,
+        "confidence": 0.52088654,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "As you start doing something, you trample down some plants and make rough, improvised trails through the undergrowth.",
+        "start": 102140,
+        "end": 108440,
+        "confidence": 0.81864774,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "The more often you do the thing, the more pronounced the trail becomes.",
+        "start": 109020,
+        "end": 113348,
+        "confidence": 0.6651388,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Over time, it turns into a path that is easier to tread, so you take it more often and it turns into a street.",
+        "start": 113524,
+        "end": 120120,
+        "confidence": 0.5776229,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "As you repeat doing the thing over and over for years, the street turns into a highway.",
+        "start": 120740,
+        "end": 126160,
+        "confidence": 0.6064283,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "Traversing it becomes effortless, familiar and comfortable.",
+        "start": 126660,
+        "end": 131040,
+        "confidence": 0.65077645,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "The more pronounced your brain highways, the more you get used to their comfort.",
+        "start": 131860,
+        "end": 136092,
+        "confidence": 0.666721,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "So we continue to use them, which means we tend to do what we've always done.",
+        "start": 136236,
+        "end": 140332,
+        "confidence": 0.77741444,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "This is why change is hard, especially as an adult, when your jungle is crisscrossed by lots of established streets and highways.",
+        "start": 140516,
+        "end": 148300,
+        "confidence": 0.7009277,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "To understand how those highways are built, we need to distinguish between two routines and habits.",
+        "start": 149040,
+        "end": 157180,
+        "confidence": 0.8212205,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "The things you do routines and habits.",
+        "start": 158320,
+        "end": 161260,
+        "confidence": 0.7557721,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "A routine is a sequence of actions that you carry out the same way every time because they've worked out well for you.",
+        "start": 162160,
+        "end": 168360,
+        "confidence": 0.5288685,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "For example, you get the same ingredients for your favourite dish and cook them in a certain order because you like the taste of the result.",
+        "start": 168480,
+        "end": 175540,
+        "confidence": 0.76458675,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Or before going to bed, you set an alarm at 6:30, because this is when you want to get up.",
+        "start": 175900,
+        "end": 181280,
+        "confidence": 0.85634595,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Imagine routines as being executed by a wise planner.",
+        "start": 181740,
+        "end": 185812,
+        "confidence": 0.8145747,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "It's slow and Analytical Responsible for strategizing and mental calculations.",
+        "start": 185956,
+        "end": 191880,
+        "confidence": 0.6067563,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "The planner is aware of the future and carefully considers what kind of result you want.",
+        "start": 192380,
+        "end": 197840,
+        "confidence": 0.8359427,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Based on that, it chooses actions to achieve specific outcomes, even if they are uncomfortable, like taking a shower after getting up.",
+        "start": 198300,
+        "end": 206480,
+        "confidence": 0.7888421,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Routines can eventually turn into habits, which feel much easier because they're basically a sequence of actions carried out without thinking about them.",
+        "start": 207290,
+        "end": 215602,
+        "confidence": 0.7472757,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "You've done them so often before that your brain considers them rewarding and a great response to a situation.",
+        "start": 215786,
+        "end": 221830,
+        "confidence": 0.84325147,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "So a habit can feel like you're on autopilot.",
+        "start": 222730,
+        "end": 226070,
+        "confidence": 0.6261909,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "You don't have to convince yourself to do something that's a habit, you just do it.",
+        "start": 227130,
+        "end": 232030,
+        "confidence": 0.7123422,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "The important thing about habits is that they are set in motion by triggers.",
+        "start": 232930,
+        "end": 237306,
+        "confidence": 0.7029365,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Context cues that can be single things or entire situations that give your brain the signal to start the behavior or action.",
+        "start": 237418,
+        "end": 245110,
+        "confidence": 0.85424,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "You already have a lot of triggers in your life, like when you see your phone, you almost always unlock the screen or you reach for the seat belt when you sit in a car or when you buy your coffee before work.",
+        "start": 245650,
+        "end": 258234,
+        "confidence": 0.5743896,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "You also get a cookie, even though you aren't actually hungry.",
+        "start": 258322,
+        "end": 261750,
+        "confidence": 0.7014276,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Habits are executed by an impulsive toddler.",
+        "start": 262330,
+        "end": 265778,
+        "confidence": 0.96058387,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "It responds to your immediate desires based on what's around you without considering any longer term goals.",
+        "start": 265954,
+        "end": 272962,
+        "confidence": 0.72887033,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "For the toddler, the future doesn't exist and it hates hard work.",
+        "start": 273106,
+        "end": 277390,
+        "confidence": 0.9278626,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "So when it notices a trigger, it steers you to take this easy road inside your brain that leads to a familiar rewarding result.",
+        "start": 278010,
+        "end": 285374,
+        "confidence": 0.4966246,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "If you get coffee, the toddler also wants the cookie just because that's what you do every morning.",
+        "start": 285562,
+        "end": 291010,
+        "confidence": 0.71305734,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "This rewarding feeling is also how most of your bad habits started.",
+        "start": 291390,
+        "end": 295686,
+        "confidence": 0.4749343,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Chocolate is tasty.",
+        "start": 295838,
+        "end": 297206,
+        "confidence": 0.9633782,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Browsing Reddit is occasionally mildly entertaining.",
+        "start": 297318,
+        "end": 300790,
+        "confidence": 0.84876126,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "This is why you repeat these actions even if they're bad for you.",
+        "start": 300950,
+        "end": 304850,
+        "confidence": 0.9051488,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "Rewarding feelings associated with an action demand to be repeated and so a bad habit is born.",
+        "start": 305150,
+        "end": 312250,
+        "confidence": 0.7188113,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "While the toddler sounds like a built in sabotage mechanism, it is as important as the wise planner.",
+        "start": 312930,
+        "end": 318890,
+        "confidence": 0.6764145,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "And actually they work together most of the time.",
+        "start": 318970,
+        "end": 321882,
+        "confidence": 0.50348234,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "You need your wise planner for thinking big thoughts and parallel parking and doing your taxes.",
+        "start": 322066,
+        "end": 327706,
+        "confidence": 0.7091757,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "But letting your wise planner do everything would cost too much energy.",
+        "start": 327898,
+        "end": 331990,
+        "confidence": 0.5360919,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "Outsourcing mundane and repetitive tasks to habits managed by the toddler allows your brain to easily manage your daily life while dealing with more complex mental challenges at the same time.",
+        "start": 332290,
+        "end": 343760,
+        "confidence": 0.54749006,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "So if we want to change and introduce a new behavior into our lives, we can actually use these energy saving mechanisms to make it easier.",
+        "start": 344220,
+        "end": 353240,
+        "confidence": 0.68885124,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "We'll focus on small things, not big ones.",
+        "start": 353820,
+        "end": 356996,
+        "confidence": 0.5586097,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Improving your life a little is so much better than aiming high and changing nothing.",
+        "start": 357188,
+        "end": 362680,
+        "confidence": 0.91269666,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Especially because Small changes can do a lot over months and years how to Build a Habit if you want to make change easier, the best way may not be to force it with willpower, but to convince your brain that it's not that big of a deal.",
+        "start": 363100,
+        "end": 378800,
+        "confidence": 0.53846884,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "By creating new routines and then turning them into habits, you want your wise planner to construct that first trail and then use your toddler to help initiate the action effortlessly.",
+        "start": 379180,
+        "end": 390840,
+        "confidence": 0.5086826,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Let's say you want to work out to be fitter, a very common goal.",
+        "start": 391260,
+        "end": 395640,
+        "confidence": 0.6561611,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "The first thing to do is to break down this pretty vague goal into clear, separate actions, because the idea is to make the action itself as easy a threshold as possible, so small it's manageable and so specific that you don't have to think about it a lot.",
+        "start": 396300,
+        "end": 411630,
+        "confidence": 0.4860474,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "For example, a tangible, controllable action might be doing 10 squats every morning.",
+        "start": 412010,
+        "end": 417630,
+        "confidence": 0.71535194,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "So you can start by trying to create a routine, but already include clear triggers that the toddler can pick up later on.",
+        "start": 418010,
+        "end": 425150,
+        "confidence": 0.7395256,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Remember, a trigger is nothing more than a signal that you always associate with action.",
+        "start": 425770,
+        "end": 430244,
+        "confidence": 0.5498243,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "They can be visual pointers like seeing a particular object like your training outfit, or a certain time of day, or a designated place like a nearby park, or even better, all of these things combined.",
+        "start": 430412,
+        "end": 443160,
+        "confidence": 0.5607824,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "The important thing is that you always start doing your action in a specific context.",
+        "start": 444140,
+        "end": 449400,
+        "confidence": 0.60715157,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "This trigger is the start button that will eventually set off the action automatically.",
+        "start": 449900,
+        "end": 454760,
+        "confidence": 0.88513464,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "So to establish a home workout habit with 10 squats to begin with, you could make sure to always do them with your exercise gear on at the same place and time, like in your living room at 8am Once you have your trigger and action, all you need to do is repeat them regularly, ideally every day.",
+        "start": 455590,
+        "end": 472158,
+        "confidence": 0.67198545,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "If you keep going, they will change from a routine to a habit, from a trail to a highway.",
+        "start": 472294,
+        "end": 478370,
+        "confidence": 0.7820048,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Don't get this wrong.",
+        "start": 479110,
+        "end": 480142,
+        "confidence": 0.4975423,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "The squats will still take you energy to do, but the decision to do them will feel much less like a chore and more like a regular part of your day.",
+        "start": 480206,
+        "end": 489510,
+        "confidence": 0.48929256,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "While this is simple, it's not easy.",
+        "start": 490530,
+        "end": 493550,
+        "confidence": 0.52879184,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Many things you want to turn into habits don't offer as much instant gratification as wasting time on Reddit.",
+        "start": 493890,
+        "end": 500746,
+        "confidence": 0.64108574,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "To make your new action easier to repeat and more likely to be picked up by the toddler.",
+        "start": 500938,
+        "end": 505578,
+        "confidence": 0.5645014,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Try to make it pleasurable.",
+        "start": 505674,
+        "end": 507546,
+        "confidence": 0.69319725,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Not necessarily by rewarding yourself after you've done it, but but by making the action or behavior itself more enjoyable.",
+        "start": 507738,
+        "end": 514790,
+        "confidence": 0.8305325,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Like only listening to your favorite podcast while working out or chipping away at your taxes while you wait for civilization to load the next round.",
+        "start": 515290,
+        "end": 523762,
+        "confidence": 0.59620667,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "You need to figure out what works for you.",
+        "start": 523946,
+        "end": 526350,
+        "confidence": 0.7793427,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "In principle, that's it.",
+        "start": 527130,
+        "end": 529150,
+        "confidence": 0.751997,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Frustratingly simple.",
+        "start": 529450,
+        "end": 530802,
+        "confidence": 0.8894262,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "Like most things you can do to make your life better, how long it takes for your toddler to take over and establish a habit varies widely.",
+        "start": 530866,
+        "end": 538880,
+        "confidence": 0.5854775,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "It depends on the behavior you're trying to get used to, what kind of person you are, your stress levels, and many more things.",
+        "start": 539620,
+        "end": 546600,
+        "confidence": 0.5062657,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEGATIVE"
+    },
+    {
+        "text": "It takes anything between 15 and 250 days until a new habit is kicked off automatically by its trigger.",
+        "start": 547220,
+        "end": 554640,
+        "confidence": 0.7003337,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "You won't know how long it will take for you.",
+        "start": 555140,
+        "end": 557640,
+        "confidence": 0.56970084,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Starting is the easy part, especially in the first week or two.",
+        "start": 558180,
+        "end": 562600,
+        "confidence": 0.79904276,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Continuing to do it every day is the hard part, but it does get easier as you keep going.",
+        "start": 563310,
+        "end": 569250,
+        "confidence": 0.827965,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "There are no silver bullets for change, but the science of habits is a reminder that it is possible no matter how old or young you are.",
+        "start": 569870,
+        "end": 578054,
+        "confidence": 0.6451355,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Even if you only end up doing a little more good stuff or a few new things, that's still a success.",
+        "start": 578222,
+        "end": 584210,
+        "confidence": 0.9274755,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Being a little bit more healthy or knowledgeable is a million times better than being unhappy about a thing and changing nothing.",
+        "start": 584830,
+        "end": 592168,
+        "confidence": 0.6245095,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "In the end, change is a direction, not a destination.",
+        "start": 592344,
+        "end": 596620,
+        "confidence": 0.7604684,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "So now, hoping we've given you a bit of insight and motivation, here is the thing we made to make this progress easier with design and science.",
+        "start": 599520,
+        "end": 608216,
+        "confidence": 0.84083813,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Please bear in mind you don't need to buy anything to work on yourself.",
+        "start": 608408,
+        "end": 611944,
+        "confidence": 0.74319696,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "This is optional.",
+        "start": 612072,
+        "end": 613180,
+        "confidence": 0.74285656,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Having said that, we struggle with change as much as anyone else, so we've created our own habit journal, as much for ourselves as for you.",
+        "start": 613520,
+        "end": 621092,
+        "confidence": 0.7025404,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Before we printed anything, we tested it on ourselves and got feedback from the kurzgesagt team and experts.",
+        "start": 621276,
+        "end": 627876,
+        "confidence": 0.8968746,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "The idea is for you to track your habit progress for your desired behavior.",
+        "start": 628068,
+        "end": 632772,
+        "confidence": 0.87962824,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "There's a tutorial part which guides you through the hardest part of the process.",
+        "start": 632916,
+        "end": 636404,
+        "confidence": 0.7411179,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Step by step, you'll get helpful pointers, reflect on your progress and how you could make things easier for yourself.",
+        "start": 636492,
+        "end": 643640,
+        "confidence": 0.86971086,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Once you get through the tutorial part.",
+        "start": 644060,
+        "end": 646046,
+        "confidence": 0.77220243,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "The habit journaling starts regularly, interwoven with examples, science breaks and reflections that we hope will help keep the journey interesting.",
+        "start": 646148,
+        "end": 654670,
+        "confidence": 0.88288367,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Like our Gratitude Journal, it's cloth, bound with an embossed hardcover and printed on high quality paper.",
+        "start": 655010,
+        "end": 661390,
+        "confidence": 0.555364,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "NEUTRAL"
+    },
+    {
+        "text": "Nice to the touch and with lots of beautiful illustrations, this book is a companion on your personal change journey.",
+        "start": 661730,
+        "end": 668778,
+        "confidence": 0.98237383,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "However small or big it may be, getting things from our shop is the best way to support kurzgesagt and what we try to do here on the channel.",
+        "start": 668874,
+        "end": 677268,
+        "confidence": 0.92006654,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    },
+    {
+        "text": "Thank you for watching.",
+        "start": 677444,
+        "end": 678500,
+        "confidence": 0.9696214,
+        "speaker": null,
+        "channel": null,
+        "sentiment": "POSITIVE"
+    }
+]
